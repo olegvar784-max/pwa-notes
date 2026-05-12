@@ -1,0 +1,15 @@
+{
+    "name": "Мои заметки PWA",
+    "short_name": "Заметки",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f0f0f3",
+    "theme_color": "#6c63ff",
+    "icons": [
+        {
+            "src": "./icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
